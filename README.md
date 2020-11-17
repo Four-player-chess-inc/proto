@@ -2,4 +2,5 @@
 - [ ] Game rules
 - [ ] Reconnect back to active game session on connection lost
 - [ ] Player timer
-- [ ] Drawing like this 
+- [ ] Drawing like this  
+![alt text](BLOB/drawing.png)
