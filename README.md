@@ -6,14 +6,17 @@ Protocol based on generally accepted chess rules with minor clarifications and d
 # Proto TODO
 - [ ] Out of game session
   - [ ] Register players inqueue
+  - [ ] Update queue status
+    - [ ] New player join
+    - [ ] Player leave 
 - [ ] Active game session
-  - [ ] Reconnect back to active game session on connection lost
   - [ ] Basic move
   - [ ] Special move
     - [ ] Promotion
     - [ ] En Passant
     - [ ] Castling
   - [ ] Player timer
+  - [ ] Reconnect back to active game session on connection lost
   - [ ] Drawing like this  
   ![alt text](BLOB/drawing.png)
  
