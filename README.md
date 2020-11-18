@@ -1,6 +1,6 @@
 # Rules
 Protocol based on generally accepted chess rules with minor clarifications and differences
-- No build-in alliances, free for all
+- No build-in (on proto level) alliances, free for all
 - En passant disallowed?
 
 # Proto TODO
