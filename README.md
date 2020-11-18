@@ -16,7 +16,7 @@ Protocol based on generally accepted chess rules with minor clarifications and d
     - [ ] En Passant
     - [ ] Castling
   - [ ] Player timer
-  - [ ] Reconnect back to active game session on connection lost
+  - [ ] Reconnect on connection lost
   - [ ] Drawing like this  
   ![alt text](BLOB/drawing.png)
  
