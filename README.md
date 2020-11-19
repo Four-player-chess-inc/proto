@@ -18,5 +18,5 @@ Protocol based on generally accepted chess rules with minor clarifications and d
   - [ ] Player timer
   - [ ] Reconnect on connection lost
   - [ ] Drawing like this  
-  ![alt text](BLOB/drawing.png)
+  ![](BLOB/drawing.png)
  
