@@ -5,10 +5,11 @@ Protocol based on generally accepted chess rules with minor clarifications and d
 
 # Proto TODO
 - [ ] Out of game session
-  - [ ] Register players inqueue
-  - [ ] Update queue status
-    - [ ] New player join
-    - [ ] Player leave 
+  - [x] Register players inqueue
+  - [x] Update queue status
+    - [x] New player join
+    - [x] Player leave
+    - [x] All 4 players are found, game start
 - [ ] Active game session
   - [ ] Basic move
   - [ ] Special move
