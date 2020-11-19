@@ -4,12 +4,13 @@ Protocol based on generally accepted chess rules with minor clarifications and d
 - En passant disallowed?
 
 # Proto TODO
-- [ ] Out of game session
+- [x] Out of game session
   - [x] Register players inqueue
   - [x] Update queue status
     - [x] New player join
     - [x] Player leave
     - [x] All 4 players are found, game start
+    - [x] Check alive players before start game session, drop dead
 - [ ] Active game session
   - [ ] Basic move
   - [ ] Special move
