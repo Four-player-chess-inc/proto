@@ -5,7 +5,7 @@ Protocol based on generally accepted chess rules with minor clarifications and d
 
 # Proto TODO
 - [ ] Out of game session
-  - [ ] Waiting queque
+  - [ ] matchmaking queque
     - [x] Register player
     - [ ] Leave player
     - [x] Inform queue members
