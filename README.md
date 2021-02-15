@@ -8,6 +8,7 @@ Protocol based on generally accepted chess rules with minor clarifications and d
 
 # Proto TODO
 - [x] Beyond game session
+  - [x] Handshake
   - [x] Matchmaking queque
     - [x] Register player
     - [x] Leave player
