@@ -6,6 +6,11 @@ Protocol based on generally accepted chess rules with minor clarifications and d
 - Stalemated, checkmated or king captured player loses
 - Stalemate and checkmate states can be interrupt until the stalemated or checkmated player's turn comes
 
+Game session
+If disconnect, wait timer
+If leave, lose
+
+
 # Proto TODO
 - [x] Beyond game session
   - [x] Handshake
